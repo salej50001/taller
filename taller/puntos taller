@@ -1,0 +1,44 @@
+# /**1. De un listado de personas determinar cuales son los productos que estan entre 10 y 20 dolares (Sin usar filter) */
+
+# const frutas = [
+#     { nombre: 'Mangostino', precio: 34 },       
+#     { nombre: 'Mora', precio: 17 },      
+#     { nombre: 'Banano', precio: 11 },        
+#     { nombre: 'Papaya', precio: 13 },      
+#     { nombre: 'Lulo', precio: 8 }      
+# ] 
+
+# /** 2. Del listado de personas anterior determinar cuales son los productos que estan entre 10 y 20 dolares (Con filter) */
+ 
+# /** 3. El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
+
+# El BMI se calcula con la siguiente formula:
+#    peso / altura^2
+
+# Escribe un programa que le pida al usuario su peso y altura. El programa deberá calcular el BMI e imprimir:
+
+#  - "Bajo de peso" si el BMI < 18.5
+#  - "Normal" si está entre 18.5 y 24.9
+#  - "Sobrepeso" si está entre 25 y 29.9
+#  - "Obeso" si es igual o mayor a 30
+
+# */
+
+# /** 4. A partir de la lista determinar: Cantidad de hombres y mujeres.
+
+
+# const values = [
+#     { name: 'Juan', age: 45, gender: 'male' },
+#     { name: 'Sofia', age: 13, gender: 'female' },
+#     { name: 'Sofia', age: 67, gender: 'female' },
+#     { name: 'Carlos', age: 32, gender: 'female'},
+#     { name: 'Ana Maria', age: 27, gender: 'female' },
+#     { name: 'Luisa', age: 5, gender: 'female' },
+#     { name: 'Elisa', age: 17, gender: 'female' }
+# ];
+# */
+
+# /** 5. A partir de la lista anterior determinar: el promedio de las edades de hombres y mujeres */
+
+# /** 6. Calcular Entero a partir de un Binario de 4 dígitos. Dada una matriz de unos y ceros, convierta el valor binario equivalente a un número entero.
+# */
